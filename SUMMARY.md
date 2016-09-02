@@ -1,6 +1,8 @@
-# Summary
+# 目录
 
-* [简介](README.md)
+## [简介](README.md)
+
+## 第一部分 编程语言
 * [bf](book/part1/bf.md)
 * [clojure-macro](book/part1/clojure-macro.md)
 * [clojure](book/part1/clojure.md)
@@ -40,9 +42,10 @@
 * [visualbasic](book/part1/visualbasic.md)
 * [xml](book/part1/xml.md)
 * [yaml](book/part1/yaml.md)
+
+## 第二部分 工具
 * [bash](book/part2/bash.md)
 * [git](book/part2/git.md)
 * [tmux](book/part2/tmux.md)
 * [vim](book/part2/vim.md)
 * [zfs](book/part2/zfs.md)
-
