@@ -1,0 +1,7 @@
+{
+	"name": "learnxinyminutes-zh-cn",
+	"introduction": "《软件知识快速入门精要》",
+	"path" : {
+	 "toc" : "SUMMARY.md"
+	}
+}
